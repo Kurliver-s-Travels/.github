@@ -1,6 +1,6 @@
 
-   ![unnamed](https://user-images.githubusercontent.com/79268661/184589145-0cf4e476-471d-4721-bb6d-de81f705a6d4.png)
 
+<p align="center"><img src="https://user-images.githubusercontent.com/79268661/184589145-0cf4e476-471d-4721-bb6d-de81f705a6d4.png"></p>
 
 # 🐳 컬리버 여행기
 > 소설 걸리버 여행기에서 걸리버는 우연히 소인국에 가게 되어 소인국 사람들에게 많은 도움을 주고 귀환하게 됩니다. 이런 점에서 신선하고 빠른 배송을 제공해주어 많은 사람의 삶에 도움을 주는 마켓컬리가 걸리버와 비슷하다고 느꼈습니다. 이번 해커톤을 통해 “컬리인”이 되어 마켓컬리와 함께 사람들의 문제를 해결하는 데 도움이 되고 싶습니다. 따라서 저희 팀이 함께하는 이 여정을 “컬리버 여행기(Kurliver’s Travels)”로 표현했습니다.
