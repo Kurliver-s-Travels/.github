@@ -1,5 +1,5 @@
 
-    ![unnamed](https://user-images.githubusercontent.com/79268661/184589145-0cf4e476-471d-4721-bb6d-de81f705a6d4.png)
+   ![unnamed](https://user-images.githubusercontent.com/79268661/184589145-0cf4e476-471d-4721-bb6d-de81f705a6d4.png)
 
 
 # 🐳 컬리버 여행기
