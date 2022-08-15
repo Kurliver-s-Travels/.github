@@ -69,5 +69,6 @@
 * Meeting Tool : Google Metting, Discord
 
 
+# 프로젝트 문서
 
-
+* [✅ Notion 페이지](https://maddening-shelf-99c.notion.site/KURLY-HACK-FESTA-2022-bd4553f8e5714f10b830a7a65568aea3)
